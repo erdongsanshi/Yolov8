@@ -3,6 +3,14 @@ Yolo模型的训练、部署与测试.
 
 (训练参考[Ultralytics](https://docs.ultralytics.com/zh)用的yolov8模型、数据集widerperson和VOC,部署与测试在lubancat1(rk3566)上进行，采用了python与c++推理测试)
 
+用到的几个库，把当时的版本保存在了谷歌网盘，万一有更新，可以下载参考
+
+ultralytics_yolov8(https://drive.google.com/file/d/1ccteWOeOiJjrcKGMi2es5P_StVqmI6_B/view?usp=drive_link)
+
+rknn-toolkit2(https://drive.google.com/file/d/186N91rykxVWSbg6AHgMm-iWSNUxuMZFL/view?usp=drive_link)
+
+rknn-toolkit2(https://drive.google.com/file/d/1sawPAAHRQuTVY86luOmkiL3NK97d7e2P/view?usp=drive_link)
+
 ## Training
 参考官网教程:(https://docs.ultralytics.com/zh/quickstart/)  如有变化，以官方教程为准。
 
