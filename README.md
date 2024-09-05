@@ -9,7 +9,7 @@ Yolo模型的训练、部署与测试.
 
 [rknn-toolkit2](https://drive.google.com/file/d/186N91rykxVWSbg6AHgMm-iWSNUxuMZFL/view?usp=drive_link)
 
-[rknn-toolkit2](https://drive.google.com/file/d/1sawPAAHRQuTVY86luOmkiL3NK97d7e2P/view?usp=drive_link)
+[rknn_model_zoo](https://drive.google.com/file/d/1sawPAAHRQuTVY86luOmkiL3NK97d7e2P/view?usp=drive_link)
 
 ## Training
 参考官网教程:(https://docs.ultralytics.com/zh/quickstart/)  如有变化，以官方教程为准。
